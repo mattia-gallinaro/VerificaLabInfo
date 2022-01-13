@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Verifica_Mattia_Gallinaro_4_F/1.0.0": {
+        "runtime": {
+          "Verifica_Mattia_Gallinaro_4_F.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Verifica_Mattia_Gallinaro_4_F/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

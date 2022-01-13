@@ -1,0 +1,14 @@
+C:\Users\galli\source\repos\Verifica_Mattia_Gallinaro_4_F\Verifica_Mattia_Gallinaro_4_F\bin\Debug\netcoreapp3.1\Verifica_Mattia_Gallinaro_4_F.exe
+C:\Users\galli\source\repos\Verifica_Mattia_Gallinaro_4_F\Verifica_Mattia_Gallinaro_4_F\bin\Debug\netcoreapp3.1\Verifica_Mattia_Gallinaro_4_F.deps.json
+C:\Users\galli\source\repos\Verifica_Mattia_Gallinaro_4_F\Verifica_Mattia_Gallinaro_4_F\bin\Debug\netcoreapp3.1\Verifica_Mattia_Gallinaro_4_F.runtimeconfig.json
+C:\Users\galli\source\repos\Verifica_Mattia_Gallinaro_4_F\Verifica_Mattia_Gallinaro_4_F\bin\Debug\netcoreapp3.1\Verifica_Mattia_Gallinaro_4_F.runtimeconfig.dev.json
+C:\Users\galli\source\repos\Verifica_Mattia_Gallinaro_4_F\Verifica_Mattia_Gallinaro_4_F\bin\Debug\netcoreapp3.1\Verifica_Mattia_Gallinaro_4_F.dll
+C:\Users\galli\source\repos\Verifica_Mattia_Gallinaro_4_F\Verifica_Mattia_Gallinaro_4_F\bin\Debug\netcoreapp3.1\Verifica_Mattia_Gallinaro_4_F.pdb
+C:\Users\galli\source\repos\Verifica_Mattia_Gallinaro_4_F\Verifica_Mattia_Gallinaro_4_F\obj\Debug\netcoreapp3.1\Verifica_Mattia_Gallinaro_4_F.csproj.AssemblyReference.cache
+C:\Users\galli\source\repos\Verifica_Mattia_Gallinaro_4_F\Verifica_Mattia_Gallinaro_4_F\obj\Debug\netcoreapp3.1\Verifica_Mattia_Gallinaro_4_F.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galli\source\repos\Verifica_Mattia_Gallinaro_4_F\Verifica_Mattia_Gallinaro_4_F\obj\Debug\netcoreapp3.1\Verifica_Mattia_Gallinaro_4_F.AssemblyInfoInputs.cache
+C:\Users\galli\source\repos\Verifica_Mattia_Gallinaro_4_F\Verifica_Mattia_Gallinaro_4_F\obj\Debug\netcoreapp3.1\Verifica_Mattia_Gallinaro_4_F.AssemblyInfo.cs
+C:\Users\galli\source\repos\Verifica_Mattia_Gallinaro_4_F\Verifica_Mattia_Gallinaro_4_F\obj\Debug\netcoreapp3.1\Verifica_Mattia_Gallinaro_4_F.csproj.CoreCompileInputs.cache
+C:\Users\galli\source\repos\Verifica_Mattia_Gallinaro_4_F\Verifica_Mattia_Gallinaro_4_F\obj\Debug\netcoreapp3.1\Verifica_Mattia_Gallinaro_4_F.dll
+C:\Users\galli\source\repos\Verifica_Mattia_Gallinaro_4_F\Verifica_Mattia_Gallinaro_4_F\obj\Debug\netcoreapp3.1\Verifica_Mattia_Gallinaro_4_F.pdb
+C:\Users\galli\source\repos\Verifica_Mattia_Gallinaro_4_F\Verifica_Mattia_Gallinaro_4_F\obj\Debug\netcoreapp3.1\Verifica_Mattia_Gallinaro_4_F.genruntimeconfig.cache
